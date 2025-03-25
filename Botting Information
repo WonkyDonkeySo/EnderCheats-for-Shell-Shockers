@@ -1,0 +1,24 @@
+Botting:
+To open the botting panel, open it in the botting tab, or press J (default key).
+
+Base Instructions:
+Make sure you have pop-ups enabled for your website.
+You can see an article for Chrome here.
+Configure your settings and press the Deploy button.
+For information on what you can configure, see below.
+Make sure your windows stay "focused".
+See setup below that keeps the windows running.
+The windows must be partially visible to execute the needed javascript.
+An example setup. Host player is on the bottom while the bots are above, stacked so that they are all counted as "active". StateFarm will automatically arrange bots into this formation.
+
+
+Deploy
+BotAmount - the number of bots/windows opened.
+Press Deploy to start the bots.
+UseNames - use special customized names.
+AntiDupe - prevents duplication of names with a random letter at the end.
+CopyNames - copies names from other players in the lobby.
+BotColor - sets the egg skin color of your bots.
+Use Macro - every bot executes the given JS macro.
+BotStamp - sets the stamp of your bots.
+BotHat - sets the hat of your bots.
